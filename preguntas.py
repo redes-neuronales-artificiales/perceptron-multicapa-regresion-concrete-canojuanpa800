@@ -165,5 +165,6 @@ def pregunta_05():
         y_test,  
     )
 
+
     # Retorne el mse de entrenamiento y prueba
     return mse_train, mse_test
